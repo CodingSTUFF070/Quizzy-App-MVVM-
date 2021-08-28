@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552399443180",
+    "project_id": "quizzyapp-36122",
+    "storage_bucket": "quizzyapp-36122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552399443180:android:9f84c1bfac3ae9178f01c9",
+        "android_client_info": {
+          "package_name": "com.codingstuff.quizzyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552399443180-0sdhj47med4fn0ft13qbcj0f4fipkreg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9SW8jJHMTEkkcVXLIsesKlvBKjk3RA7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552399443180-0sdhj47med4fn0ft13qbcj0f4fipkreg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
